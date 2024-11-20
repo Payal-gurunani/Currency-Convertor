@@ -16,11 +16,3 @@ A simple currency converter app built using React and hooks, which fetches real-
 - **ExchangeRate API**: Fetches live currency conversion rates.
 - **TailwindCSS**: Styling the UI components.
   
-## Installation
-
-Follow these steps to set up the project on your local machine:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/currency-converter.git
