@@ -36,7 +36,7 @@ Make sure you have the following installed on your system:
    
 2. Navigate into the project directory:
    ```bash
-   cd personal-finance-tracker
+   cd currencyConvertor
    ```
 
 ### Install Dependencies
